@@ -62,14 +62,9 @@ graph TD
 - **Real-Time Communication:** Socket.IO / Firebase
 - **Deployment Strategy:** Vercel (Frontend) & Render/Railway (Backend)
 
----
 
-## 🖼 Design & Wireframing
 
-The initial conceptualization and wireframes for ReWear can be found here:  
-👉 [ReWear Wireframe on Excalidraw](#) *(Link can be updated when available)*
 
----
 
 ## 🚀 Getting Started
 
